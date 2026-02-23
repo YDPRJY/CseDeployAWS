@@ -8,7 +8,7 @@ public class CseController {
 	
 	@GetMapping("/home")
 	public String disp() {
-		return "WELCOME TO WEB APPICATION";
+		return "WELCOME TO WEB APPICATION FROM YDP";
 	}
 
 }
